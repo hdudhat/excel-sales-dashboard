@@ -8,16 +8,16 @@ This project presents a **one-page interactive dashboard** built in Microsoft Ex
 
 | Metric                     | Visual Tool                      |
 | -------------------------- | -------------------------------- |
-| **Sales by Region**        | Pivot Table + Column Chart       |
-| **Profit by Category**     | Pivot Table + Bar Chart          |
-| **Losses by Sub-Category** | Pivot Table + Conditional Format |
-| **Interactive Filters**    | Slicers for Ship Mode & Segment  |
+|   Sales by Region          | Pivot Table + Column Chart       |
+|   Profit by Category       | Pivot Table + Bar Chart          |
+|   Losses by Sub-Category   | Pivot Table + Conditional Format |
+|   Interactive Filters      | Slicers for Ship Mode & Segment  |
 
 ---
 
 ## 📁 File Contents
 
-- **SampleSuperstore_Dashboard.xlsx**  
+- SampleSuperstore_Dashboard.xlsx  
   ➤ Contains full data + dashboard in one sheet  
   ➤ Pivot Tables and charts are interactive  
   ➤ Ready to explore and filter based on business needs
@@ -26,14 +26,14 @@ This project presents a **one-page interactive dashboard** built in Microsoft Ex
 
 ## 📊 Visual Summary (Dashboard Sections)
 
-- **📍 Sales by Region**  
+- 📍 Sales by Region  
   → Understand which geographical regions drive revenue
-- **📍 Profit by Category**  
+- 📍 Profit by Category  
   → Spot which product categories bring in the most/least profit
-- **📍 Loss-Making Sub-Categories**  
+- 📍 Loss-Making Sub-Categories
   → Highlight product lines that consistently lose money
-- **📍 Filters (Slicers)**  
-  → Analyze data by **Ship Mode** and **Customer Segment**
+- 📍 Filters (Slicers)
+  → Analyze data by Ship Mode and Customer Segment
 
 ---
 
@@ -70,8 +70,8 @@ This Excel dashboard demonstrates:
 
 ## 📬 Contact
 
-Created by **[Your Name]**  
-💼 Open to Data Analyst / Business Intelligence opportunities  
+Created by Harkesh Dudhat  
+💼 Open to Data Analyst / Business Intelligence / Data Scientist opportunities
 📧 hdudhat.work@gmail.com
 🔗 https://www.linkedin.com/in/harkesh-dudhat-b227491a0/
 
